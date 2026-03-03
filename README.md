@@ -1,4 +1,5 @@
 # Astra Client 1.8.8
+# Sorry For The Inconvience. The Link is Glitched. I'm working on it!
 
 Welcome to the Astra Client repository! This client is an innovative tool designed to enhance your experience with Minecraft. 
 
